@@ -1,0 +1,5 @@
+***Important git commands to remember***
+1. git init: ....initialize git directories
+2. git add filename(.): - add a specific file to the staging area. A period (.) can be used to add all files to the staging area.
+3. git commit -m: commit changes
+4. git push: push files or modified files to Github 
